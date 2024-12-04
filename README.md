@@ -7,7 +7,7 @@ This repository contains the source code of a Python script that can create a re
 * Danielle Stacy
 
 ## Solution Components
-* Python 3.11
+* Python 3.12
 * Meraki SDK
 * Excel
 
